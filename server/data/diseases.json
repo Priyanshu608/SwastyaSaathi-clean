@@ -1,0 +1,32 @@
+[
+  {
+    "id": "d1",
+    "name": "Dengue",
+    "description": "Viral infection spread by Aedes mosquitoes; causes high fever, joint pain, rash.",
+    "symptoms": ["fever","joint pain","rash","headache"]
+  },
+  {
+    "id": "d2",
+    "name": "Malaria",
+    "description": "Parasitic infection transmitted by Anopheles mosquitoes; causes cyclic fever, chills and anemia.",
+    "symptoms": ["fever","chills","sweating","anemia"]
+  },
+  {
+    "id": "d3",
+    "name": "Tuberculosis",
+    "description": "Bacterial lung infection causing prolonged cough, weight loss and night sweats.",
+    "symptoms": ["cough","weight loss","night sweats","fever"]
+  },
+  {
+    "id": "d4",
+    "name": "Diabetes",
+    "description": "Metabolic condition with high blood sugar; symptoms include excessive thirst and fatigue.",
+    "symptoms": ["thirst","frequent urination","fatigue","blurred vision"]
+  },
+  {
+    "id": "d5",
+    "name": "Hypertension",
+    "description": "High blood pressure often without symptoms; increases risk of heart disease and stroke.",
+    "symptoms": ["headache","dizziness","nosebleeds"]
+  }
+]

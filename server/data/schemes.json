@@ -1,0 +1,22 @@
+[
+  {
+    "id": "s1",
+    "name": "Ayushman Bharat",
+    "summary": "Health insurance scheme providing cashless care to low-income families."
+  },
+  {
+    "id": "s2",
+    "name": "National Health Mission",
+    "summary": "Provides comprehensive health care, focusing on rural and urban poor."
+  },
+  {
+    "id": "s3",
+    "name": "Janani Suraksha Yojana",
+    "summary": "Safe motherhood intervention to reduce maternal and neonatal mortality."
+  },
+  {
+    "id": "s4",
+    "name": "Pradhan Mantri Surakshit Matritva Abhiyan",
+    "summary": "Antenatal care services for pregnant women."
+  }
+]

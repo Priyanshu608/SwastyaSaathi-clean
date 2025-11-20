@@ -1,0 +1,12 @@
+[
+  { "id": "h1", "name": "AIIMS", "city": "New Delhi", "address": "Ansari Nagar, New Delhi", "phone": "+91-11-2658-8500" },
+  { "id": "h2", "name": "KEM Hospital", "city": "Mumbai", "address": "Parel, Mumbai", "phone": "+91-22-2413-0000" },
+  { "id": "h3", "name": "Christian Medical College", "city": "Vellore", "address": "Vellore, Tamil Nadu", "phone": "+91-416-228-0000" },
+  { "id": "h4", "name": "NIMHANS", "city": "Bengaluru", "address": "Bengaluru, Karnataka", "phone": "+91-80-2699-5000" },
+  { "id": "h5", "name": "PGIMER", "city": "Chandigarh", "address": "Sector 12, Chandigarh", "phone": "+91-172-274-2000" },
+  { "id": "h6", "name": "Sanjay Gandhi PGIMS", "city": "Lucknow", "address": "Lucknow, UP", "phone": "+91-522-249-0000" },
+  { "id": "h7", "name": "Apollo Hospital", "city": "Chennai", "address": "Greams Road, Chennai", "phone": "+91-44-2829-3333" },
+  { "id": "h8", "name": "Fortis Hospital", "city": "Gurgaon", "address": "Gurgaon, Haryana", "phone": "+91-124-496-2000" },
+  { "id": "h9", "name": "Lilavati Hospital", "city": "Mumbai", "address": "Bandra, Mumbai", "phone": "+91-22-2660-4444" },
+  { "id": "h10", "name": "Ruby Hall Clinic", "city": "Pune", "address": "Pune, Maharashtra", "phone": "+91-20-2612-1000" }
+]
