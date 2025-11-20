@@ -1,5 +1,0 @@
-backend/
-web/
-.vscode/
-*.pyc 
-_pycache_/
