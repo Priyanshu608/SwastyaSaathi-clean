@@ -19,7 +19,8 @@ export default function Chat() {
         body: JSON.stringify({ message: userMsg.text })
       })
       const data = await res.json()
-      setMessages(m => [...m, userMsg, { role: 'assistant', text: data.reply || 'No reply', sources: data.sources || [] }])
+      const assistantMsg = { role: 'assistant', text: data.reply || 'No reply', sources: data.sources || [] }
+      setMessages(m => [...m, assistantMsg])
     } catch (e) {
       setMessages(m => [...m, { role: 'assistant', text: 'Error contacting server.' }])
     }
